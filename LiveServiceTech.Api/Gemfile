@@ -32,6 +32,8 @@ gem 'grape-swagger-entity'
 # For representable ( https://github.com/apotonick/representable )
 gem 'grape-swagger-representable'
 
+gem 'grape_devise_token_auth'
+
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 # gem 'rack-cors'
 
