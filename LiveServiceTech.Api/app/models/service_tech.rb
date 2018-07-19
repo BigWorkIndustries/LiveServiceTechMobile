@@ -1,0 +1,2 @@
+class ServiceTech < ApplicationRecord
+end
